@@ -16,3 +16,4 @@ See also: [Resource manifest](https://docs.fivem.net/resources/manifest/)
 * **metadataKey**: The key to look up in the resource manifest.
 
 ## Return value
+
